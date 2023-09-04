@@ -38,9 +38,10 @@ build/
 # Ignore logs and application-specific files
 logs/
 *.log
-/application.properties
+
 
 # Ignore Maven-specific files
 mvnw
 mvnw.cmd
 .mvn/
+/src/main/resources/application.properties
